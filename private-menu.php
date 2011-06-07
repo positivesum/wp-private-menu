@@ -5,10 +5,6 @@
  * @author Valera Satsura <mail@satsura.com>
  */
 
-class PrivateMenu {
-    public function __construct() {}
-}
-
 /**
  * Store private menus
  *
